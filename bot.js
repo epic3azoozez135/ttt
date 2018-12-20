@@ -462,7 +462,7 @@ client.on("message", message => {
 });
 
 const config = {
-    prefix : "-",
+    prefix : "$",
     owner : [' 522866582192390174 '],
 };
 //By Request of [ function ]
